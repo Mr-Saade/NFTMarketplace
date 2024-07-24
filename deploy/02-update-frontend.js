@@ -1,4 +1,4 @@
-/*This script dynamically updates our frontend whenever we by modifying the constants file in our frontend. It ensures that the contract address and
+/*This script dynamically updates our frontend whenever we deploy or redeploy our contracts by modifying the constants file in our frontend. It ensures that the contract address and
 ABI associated with each chain ID are automatically adjusted whenever a new contract is deployed, maintaining synchronization between 
 our smart contract and the frontend interface.*/
 
